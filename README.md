@@ -10,3 +10,5 @@ prop
 set { if (value >=0}
 prop}
 
+ob. MyProp
+ob. MyProp
